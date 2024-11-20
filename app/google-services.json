@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621243976830",
+    "project_id": "iems5722-2b4aa",
+    "storage_bucket": "iems5722-2b4aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621243976830:android:ebaf814850cbaecc091c2f",
+        "android_client_info": {
+          "package_name": "com.example.a1155203383_assignment2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFsaZv8HMx1WijbzvQVC0K6Gk-cSaFKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
